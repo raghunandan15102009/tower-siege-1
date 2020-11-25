@@ -54,7 +54,7 @@ function draw() {
   obj4.display();
   obj5.display();
   obj6.display();
-  fill("black");
+  fill("brown");
   obj14.display();
   obj15.display();
   obj16.display();
@@ -62,6 +62,7 @@ function draw() {
   obj18.display();
   obj19.display();
   obj20.display();
+  fill("yellow");
   obj21.display();
   obj22.display();
   obj23.display();
@@ -70,6 +71,7 @@ function draw() {
   obj26.display();
   obj27.display();
   obj28.display();
+  fill("green");
   obj29.display();
   obj30.display();
   obj31.display();

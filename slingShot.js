@@ -15,6 +15,7 @@ class SlingShot{
     }
     display(){   
         if(this.sling.bodyA){
+            stroke("cyan");
             var pointA = this.sling.bodyA.position;
             var pointB = this.sling.pointB;       
             line(pointA.x, pointA.y, pointB.x, pointB.y);   
